@@ -1,0 +1,1 @@
+{"id":"ocaml","ext":"ml","version":"OCaml, v4.02","compile":"ocamlc -o main *.ml","execute":"main","preview":"","command":"","file":"/home/cg/src/samples/main.ml","url":"compile_ocaml_online.php","mode":"ocaml"}
